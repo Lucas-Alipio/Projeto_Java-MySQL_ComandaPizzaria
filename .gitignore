@@ -23,7 +23,7 @@
 hs_err_pid*
 
 # NetBeans specific #
-nbproject/private/
+nbproject/private
 build/
 nbbuild/
 dist/
