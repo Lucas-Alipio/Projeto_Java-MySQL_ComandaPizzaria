@@ -23,9 +23,8 @@
 hs_err_pid*
 
 # NetBeans specific #
-nbproject/private/
-nbproject/private/pivate.properties
-nbproject/private/pivate.xml
+/*/nbproject/private/
+/*/*/nbproject/private/
 build/
 nbbuild/
 dist/
